@@ -38,3 +38,5 @@ You can contact me on [Telegram](https://t.me/Konata7) or via [email](mailto:scr
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+![Metrics](/github-metrics.svg)
+
